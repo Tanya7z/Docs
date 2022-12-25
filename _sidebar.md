@@ -1,3 +1,5 @@
 - [首页](/)
 - [模组列表](list/)
-  - [樱花树](list/sa/)
+  - [樱花树](list/Cherry_Blossom_Wood.md)
+  - [东方幻传说](list/Dfhcs.md)
+  - [MineCars](list/MineCars.md)
