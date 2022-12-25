@@ -11,4 +11,4 @@
 [开始](list/)
 
 <!-- 背景图片 -->
-![](image/Background.png)
+![](image/Background.jpg)
