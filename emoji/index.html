@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Emoji:十六进制数转 Unicode 字符</title>
+</head>
+<body>
+  <h1>Emoji:十六进制数转 Unicode 字符</h1>
+  <p>请在输入框中输入十六进制数，然后点击“转换”按钮转换为 Unicode 字符。</p>
+  <img src="../image/emoji2.png" alt="内部emoji"><br/>
+  <img src="../image/emoji.png" alt="对照表">
+  <form>
+    <label for="input">输入:</label>
+    <input type="text" id="input" value="0xE500">
+    <button type="button" onclick="convert()">转换</button>
+  </form>
+  <p id>输出:</p>
+  <p id="output"></p>
+  <script>
+    function convert() {
+      // 获取输入框中的值
+      const hexCode = document.getElementById('input').value;
+      // 使用 JavaScript 将十六进制数转换为 Unicode 字符
+      const char = String.fromCharCode(parseInt(hexCode, 16));
+      // 将结果显示在输出框中
+      document.getElementById('output').textContent = char;
+    }
+  </script>
+</body>
+</html>
