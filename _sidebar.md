@@ -5,4 +5,4 @@
   - [东方幻传说](list/Dfhcs.md)
   - [MineCars](list/MineCars.md)
   - [超级农业](list/UltraFarming.md)
-- [表情系统](emoji/)
+- [表情系统](emoji/Readme.md)
