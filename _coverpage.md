@@ -8,7 +8,7 @@
 * >>立即了解文档！
 
 [QQ群](https://jq.qq.com/?_wv=1027&k=ThTUpaJM)
-[开始](list/)
+[开始](docs/list/)
 
 <!-- 背景图片 -->
 ![](image/Background.jpg)
