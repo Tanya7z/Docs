@@ -2,18 +2,15 @@
 # 模组列表  
 > 此条目仍不完善
 ## 樱花树  
-### [**>>详细游玩指南**](list/Cherry_Blossom_Wood.md)    
 原名：Cherry Blossom Wood  
 修改时间：22-11-19  
 原文/版权链接：[MCPEDL](https://mcpedl.com/cherry-blossom-wood-1-addon/)  
 ## MineCars  
-### [***>>详细游玩指南***](list/MineCars.md)
 原名：MineCars
 修改时间：22-12-18
 原文/版权链接：
 [MCPEDL](https://mcpedl.com/minecars-addon/#comment-691055)
-## 超级农业  
-### [**>>详细游玩指南**](list/UltraFarming.md)  
+## 超级农业   
 原名：UltraFarming  
 修改时间：22-11-19  
 原文/版权链接：  
