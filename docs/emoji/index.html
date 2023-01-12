@@ -2,20 +2,29 @@
 <html>
 <head>
   <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge"><!--!‬‎‏‭‫‫‭‫‬‫‬‭‬‏‬‭‪‪‫‬‪‭‫‭-->
+    <!-- <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests"> --><!--!‬‎‏‭‫‫‭‫‬‫‬‭‬‏‬‭‪‪‫‬‪‭‫‭-->
+    <meta name="viewport" content="initial-scale=1, width=device-width, user-scalable=0, maximum-scale=1"><!--!‬‎‏‭‫‫‭‫‬‫‬‭‬‏‬‭‪‪‫‬‪‭‫‭-->
   <title>Emoji:十六进制数转 Unicode 字符</title>
+  <link rel="stylesheet" href="css/main.css">
+    <link rel="stylesheet" href="css/font.css">
+    <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
-  <h1>Emoji:十六进制数转 Unicode 字符</h1>
+  <div class="xf_Skill xf_mimic_outer technology">
+                <div class="xf_outs">
+                    <h1>Emoji:十六进制数转 Unicode 字符</h1>
+                    <div class="underscore"><span></span></div>
   <p>请在输入框中输入十六进制数，然后点击“转换”按钮转换为 Unicode 字符。</p>
   <img src="../../image/emoji2.png" alt="内部emoji"><br/>
-  <img src="../../image/emoji.png" alt="对照表">
+  <img src="../../image/emoji.png" alt="对照表" width="388.8888888888888889" height="207.2222222222222222">
   <form>
-    <label for="input">输入:</label>
-    <input type="text" id="input" value="0xE500">
-    <button type="button" onclick="convert()">转换</button>
+    <h2 for="input" class="xf_sryzm">输入:</h2>
+    <input type="text" class="xf_verify xf_mimic_internal" id="input" value="0xE500">
+    <h2 for="input" class="xf_sryzm">输出:<br/></h2>
+  <p id="output" class="xf_verify xf_mimic_internal"></p>
+    <button type="button" onclick="convert()" class="xf_submit">转换</button>
   </form>
-  <p id>输出:</p>
-  <p id="output"></p>
   <script>
     function convert() {
       // 获取输入框中的值
