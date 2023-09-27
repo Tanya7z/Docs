@@ -1,8 +1,10 @@
 ![logo](./image/logo.png)
 
-# 東方犬明湖
+# 文档站
 
-* >>插件、模组的文档中心
+> 了解服务器的玩法，以及一切你想知道的问题。
 
-[QQ群](https://jq.qq.com/?_wv=1027&k=ThTUpaJM)
-[文档](docs/main/)
+[官网](//www.dogelake.fun)
+[开始](docs/start/)
+
+![](image/bg.png)
